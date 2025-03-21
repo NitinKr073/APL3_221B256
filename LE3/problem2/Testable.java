@@ -1,3 +1,1 @@
-interface Testable {
-    void display();  // Method declaration
-}
+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
